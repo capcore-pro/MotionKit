@@ -1,0 +1,6 @@
+{
+  "name": "Doodle Dynamic Library",
+  "description": "Bibliothèque de composants animés pour fond d'écran, curseur, encadrement et effets interactifs personnalisables.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
